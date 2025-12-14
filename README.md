@@ -44,7 +44,8 @@ Bridge rectifier with filter:
 
 TABULAR COLUMN
 half wave Rectifier without filter:
-<img width="656" height="460" alt="Screenshot 2025-12-15 045704" src="https://github.com/user-attachments/assets/2c9e4c54-2fa9-4b9b-abd4-bb08438af96c" />
+![WhatsApp Image 2025-12-15 at 4 57 46 AM](https://github.com/user-attachments/assets/cea52107-0ad8-4883-8230-9aa8d9b9bc25)
+
 
 half wave Rectifier with filter:
 ![WhatsApp Image 2025-12-15 at 4 57 46 AM (1)](https://github.com/user-attachments/assets/12a485b6-ff8c-4ed6-a78f-e5f1b167fae0)
